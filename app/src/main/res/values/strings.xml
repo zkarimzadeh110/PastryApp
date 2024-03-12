@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pastry</string>
+    <string name="content_description_person">my account</string>
+    <string name="account">account</string>
+    <string name="notifications">notifications</string>
+    <string name="content_description_notifications">my notifications</string>
+    <string name="home">home</string>
+    <string name="content_description_home">home</string>
+    <string name="save">save</string>
+    <string name="content_description_save">the saves ones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">favorites</string>
+    <string name="content_description_favorites">my favorites</string>
+    <string name="add">add video</string>
+    <string name="search">search</string>
+    <string name="error">Error !</string>
+    <string name="add_profile_image">add profile image</string>
+    <string name="connect_to_network">please connect to network.</string>
+    <string name="accept">accept</string>
+    <string name="enter_information">please enter information .</string>
+    <string name="add_post_fab">add post fab</string>
+    <string name="title_activity_my_main">MyMainActivity</string>
+</resources>
